@@ -37,4 +37,12 @@
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/pawan575/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+## Array
+|  |
+| ------- |
+| [3895-count-digit-appearances](https://github.com/pawan575/Leetcode/tree/master/3895-count-digit-appearances) |
+## Math
+|  |
+| ------- |
+| [3895-count-digit-appearances](https://github.com/pawan575/Leetcode/tree/master/3895-count-digit-appearances) |
 <!---LeetCode Topics End-->
