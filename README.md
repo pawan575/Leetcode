@@ -45,9 +45,14 @@
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/pawan575/Leetcode/tree/master/0441-arranging-coins) |
 | [3895-count-digit-appearances](https://github.com/pawan575/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/pawan575/Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/pawan575/Leetcode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
