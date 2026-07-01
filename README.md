@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/pawan575/Leetcode/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/pawan575/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/pawan575/Leetcode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/pawan575/Leetcode/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/pawan575/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/pawan575/Leetcode/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
@@ -20,6 +22,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/pawan575/Leetcode/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/pawan575/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/pawan575/Leetcode/tree/master/0112-path-sum) |
 ## Hash Table
 |  |
