@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/pawan575/Leetcode/tree/master/0441-arranging-coins) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/pawan575/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pawan575/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3895-count-digit-appearances](https://github.com/pawan575/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Recursion
