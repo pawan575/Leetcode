@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/pawan575/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [3827-count-monobit-integers](https://github.com/pawan575/Leetcode/tree/master/3827-count-monobit-integers) |
 ## Counting
 |  |
 | ------- |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [2785-sort-vowels-in-a-string](https://github.com/pawan575/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3827-count-monobit-integers](https://github.com/pawan575/Leetcode/tree/master/3827-count-monobit-integers) |
 <!---LeetCode Topics End-->
