@@ -78,6 +78,7 @@
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pawan575/Leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pawan575/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2523-closest-prime-numbers-in-range](https://github.com/pawan575/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/pawan575/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pawan575/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3765-complete-prime-number](https://github.com/pawan575/Leetcode/tree/master/3765-complete-prime-number) |
 | [3895-count-digit-appearances](https://github.com/pawan575/Leetcode/tree/master/3895-count-digit-appearances) |
@@ -106,6 +107,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/pawan575/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3765-complete-prime-number](https://github.com/pawan575/Leetcode/tree/master/3765-complete-prime-number) |
 | [3827-count-monobit-integers](https://github.com/pawan575/Leetcode/tree/master/3827-count-monobit-integers) |
 ## Stack
@@ -117,4 +119,8 @@
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/pawan575/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3765-complete-prime-number](https://github.com/pawan575/Leetcode/tree/master/3765-complete-prime-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/pawan575/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
