@@ -82,6 +82,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pawan575/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3765-complete-prime-number](https://github.com/pawan575/Leetcode/tree/master/3765-complete-prime-number) |
 | [3895-count-digit-appearances](https://github.com/pawan575/Leetcode/tree/master/3895-count-digit-appearances) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/pawan575/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Recursion
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/pawan575/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3765-complete-prime-number](https://github.com/pawan575/Leetcode/tree/master/3765-complete-prime-number) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/pawan575/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
