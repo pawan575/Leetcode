@@ -70,6 +70,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/pawan575/Leetcode/tree/master/0027-remove-element) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/pawan575/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/pawan575/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pawan575/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -141,4 +142,8 @@
 |  |
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/pawan575/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/pawan575/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
