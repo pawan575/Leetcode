@@ -91,6 +91,7 @@
 | [1952-three-divisors](https://github.com/pawan575/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawan575/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/pawan575/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2413-smallest-even-multiple](https://github.com/pawan575/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pawan575/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2523-closest-prime-numbers-in-range](https://github.com/pawan575/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pawan575/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -139,6 +140,7 @@
 | ------- |
 | [1952-three-divisors](https://github.com/pawan575/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawan575/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/pawan575/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2523-closest-prime-numbers-in-range](https://github.com/pawan575/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3765-complete-prime-number](https://github.com/pawan575/Leetcode/tree/master/3765-complete-prime-number) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/pawan575/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
