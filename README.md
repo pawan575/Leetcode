@@ -76,6 +76,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pawan575/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/pawan575/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1331-rank-transform-of-an-array](https://github.com/pawan575/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/pawan575/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawan575/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pawan575/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/pawan575/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -156,12 +157,14 @@
 |  |
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/pawan575/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/pawan575/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/pawan575/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pawan575/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Greedy
 |  |
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/pawan575/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/pawan575/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 ## Two Pointers
 |  |
 | ------- |
