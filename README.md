@@ -84,6 +84,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pawan575/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pawan575/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/pawan575/Leetcode/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/pawan575/Leetcode/tree/master/0724-find-pivot-index) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/pawan575/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1331-rank-transform-of-an-array](https://github.com/pawan575/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pawan575/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -203,4 +204,8 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/pawan575/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
