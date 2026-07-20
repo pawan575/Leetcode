@@ -7,6 +7,7 @@
 | [0098-validate-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/pawan575/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pawan575/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/pawan575/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/pawan575/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/pawan575/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -49,6 +50,7 @@
 | [0098-validate-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/pawan575/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pawan575/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/pawan575/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/pawan575/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/pawan575/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/pawan575/Leetcode/tree/master/0027-remove-element) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pawan575/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pawan575/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/pawan575/Leetcode/tree/master/0645-set-mismatch) |
@@ -230,6 +233,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pawan575/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -240,4 +244,8 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/pawan575/Leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/pawan575/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
