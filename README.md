@@ -127,6 +127,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/pawan575/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pawan575/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pawan575/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3115-maximum-prime-difference](https://github.com/pawan575/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pawan575/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pawan575/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pawan575/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -145,6 +146,7 @@
 | [2413-smallest-even-multiple](https://github.com/pawan575/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pawan575/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2523-closest-prime-numbers-in-range](https://github.com/pawan575/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3115-maximum-prime-difference](https://github.com/pawan575/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pawan575/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pawan575/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pawan575/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -206,6 +208,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawan575/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/pawan575/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2523-closest-prime-numbers-in-range](https://github.com/pawan575/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3115-maximum-prime-difference](https://github.com/pawan575/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pawan575/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pawan575/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pawan575/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
