@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/pawan575/Leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/pawan575/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pawan575/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/pawan575/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pawan575/Leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/pawan575/Leetcode/tree/master/0148-sort-list) |
 | [0645-set-mismatch](https://github.com/pawan575/Leetcode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/pawan575/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pawan575/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -261,6 +263,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/pawan575/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/pawan575/Leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/pawan575/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/pawan575/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pawan575/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pawan575/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -298,8 +301,13 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/pawan575/Leetcode/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pawan575/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/pawan575/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
