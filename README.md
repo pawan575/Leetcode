@@ -96,6 +96,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/pawan575/Leetcode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/pawan575/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1447-simplified-fractions](https://github.com/pawan575/Leetcode/tree/master/1447-simplified-fractions) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/pawan575/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
