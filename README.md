@@ -157,6 +157,7 @@
 | ------- |
 | [0263-ugly-number](https://github.com/pawan575/Leetcode/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/pawan575/Leetcode/tree/master/0441-arranging-coins) |
+| [0728-self-dividing-numbers](https://github.com/pawan575/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1447-simplified-fractions](https://github.com/pawan575/Leetcode/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/pawan575/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/pawan575/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
