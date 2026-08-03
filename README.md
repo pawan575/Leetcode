@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pawan575/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/pawan575/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/pawan575/Leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pawan575/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/pawan575/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -145,6 +146,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pawan575/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pawan575/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/pawan575/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/pawan575/Leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/pawan575/Leetcode/tree/master/0724-find-pivot-index) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/pawan575/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
