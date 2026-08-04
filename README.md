@@ -93,6 +93,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pawan575/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pawan575/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pawan575/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pawan575/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pawan575/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pawan575/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3668-restore-finishing-order](https://github.com/pawan575/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -130,6 +131,7 @@
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pawan575/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/pawan575/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/pawan575/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pawan575/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pawan575/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pawan575/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3115-maximum-prime-difference](https://github.com/pawan575/Leetcode/tree/master/3115-maximum-prime-difference) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pawan575/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pawan575/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pawan575/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/pawan575/Leetcode/tree/master/3618-split-array-by-prime-indices) |
