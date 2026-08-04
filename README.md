@@ -116,6 +116,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pawan575/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/pawan575/Leetcode/tree/master/3110-score-of-a-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/pawan575/Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3280-convert-date-to-binary](https://github.com/pawan575/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/pawan575/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pawan575/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pawan575/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -215,6 +216,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/pawan575/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pawan575/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3115-maximum-prime-difference](https://github.com/pawan575/Leetcode/tree/master/3115-maximum-prime-difference) |
+| [3280-convert-date-to-binary](https://github.com/pawan575/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pawan575/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3516-find-closest-person](https://github.com/pawan575/Leetcode/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/pawan575/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
