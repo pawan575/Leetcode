@@ -108,6 +108,7 @@
 | [0771-jewels-and-stones](https://github.com/pawan575/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/pawan575/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1447-simplified-fractions](https://github.com/pawan575/Leetcode/tree/master/1447-simplified-fractions) |
+| [1678-goal-parser-interpretation](https://github.com/pawan575/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawan575/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/pawan575/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2390-removing-stars-from-a-string](https://github.com/pawan575/Leetcode/tree/master/2390-removing-stars-from-a-string) |
