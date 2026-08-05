@@ -94,6 +94,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawan575/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pawan575/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pawan575/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3146-permutation-difference-between-two-strings](https://github.com/pawan575/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pawan575/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pawan575/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pawan575/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -116,6 +117,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pawan575/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pawan575/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/pawan575/Leetcode/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/pawan575/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/pawan575/Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3280-convert-date-to-binary](https://github.com/pawan575/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/pawan575/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
