@@ -176,6 +176,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawan575/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/pawan575/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pawan575/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pawan575/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/pawan575/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawan575/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/pawan575/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -326,6 +327,7 @@
 | [0807-max-increase-to-keep-city-skyline](https://github.com/pawan575/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1260-shift-2d-grid](https://github.com/pawan575/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/pawan575/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pawan575/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/pawan575/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pawan575/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3643-flip-square-submatrix-vertically](https://github.com/pawan575/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
