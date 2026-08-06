@@ -221,6 +221,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pawan575/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3115-maximum-prime-difference](https://github.com/pawan575/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3280-convert-date-to-binary](https://github.com/pawan575/Leetcode/tree/master/3280-convert-date-to-binary) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pawan575/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pawan575/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3516-find-closest-person](https://github.com/pawan575/Leetcode/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/pawan575/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -284,6 +285,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/pawan575/Leetcode/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/pawan575/Leetcode/tree/master/1952-three-divisors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pawan575/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pawan575/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pawan575/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3765-complete-prime-number](https://github.com/pawan575/Leetcode/tree/master/3765-complete-prime-number) |
