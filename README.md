@@ -25,6 +25,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pawan575/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pawan575/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/pawan575/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/pawan575/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pawan575/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/pawan575/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -46,6 +47,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pawan575/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pawan575/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/pawan575/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/pawan575/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pawan575/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -83,6 +85,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pawan575/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pawan575/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/pawan575/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/pawan575/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pawan575/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/pawan575/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Hash Table
@@ -273,6 +276,7 @@
 | [0645-set-mismatch](https://github.com/pawan575/Leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/pawan575/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pawan575/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/pawan575/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/pawan575/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pawan575/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pawan575/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -383,6 +387,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pawan575/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pawan575/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/pawan575/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pawan575/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Prefix Sum
 |  |
