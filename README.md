@@ -24,6 +24,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pawan575/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pawan575/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1302-deepest-leaves-sum](https://github.com/pawan575/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pawan575/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/pawan575/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -44,6 +45,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/pawan575/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pawan575/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pawan575/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1302-deepest-leaves-sum](https://github.com/pawan575/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pawan575/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -56,6 +58,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pawan575/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pawan575/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pawan575/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1302-deepest-leaves-sum](https://github.com/pawan575/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -79,6 +82,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pawan575/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pawan575/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1302-deepest-leaves-sum](https://github.com/pawan575/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pawan575/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/pawan575/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Hash Table
