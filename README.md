@@ -228,6 +228,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/pawan575/Leetcode/tree/master/0007-reverse-integer) |
 | [0263-ugly-number](https://github.com/pawan575/Leetcode/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/pawan575/Leetcode/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/pawan575/Leetcode/tree/master/0728-self-dividing-numbers) |
