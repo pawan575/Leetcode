@@ -275,6 +275,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pawan575/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pawan575/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3765-complete-prime-number](https://github.com/pawan575/Leetcode/tree/master/3765-complete-prime-number) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/pawan575/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pawan575/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/pawan575/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/pawan575/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -371,6 +372,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pawan575/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pawan575/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pawan575/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/pawan575/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Matrix
 |  |
 | ------- |
