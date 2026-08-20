@@ -174,6 +174,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/pawan575/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/pawan575/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/pawan575/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pawan575/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/pawan575/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -212,6 +213,7 @@
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/pawan575/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawan575/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/pawan575/Leetcode/tree/master/1816-truncate-sentence) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/pawan575/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/pawan575/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pawan575/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pawan575/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -250,6 +252,7 @@
 | [1551-minimum-operations-to-make-array-equal](https://github.com/pawan575/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pawan575/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pawan575/Leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/pawan575/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/pawan575/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1952-three-divisors](https://github.com/pawan575/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawan575/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -285,6 +288,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/pawan575/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/pawan575/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -490,4 +494,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/pawan575/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/pawan575/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
