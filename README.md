@@ -179,6 +179,7 @@
 | [2181-merge-nodes-in-between-zeros](https://github.com/pawan575/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/pawan575/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pawan575/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/pawan575/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/pawan575/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/pawan575/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pawan575/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -224,6 +225,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pawan575/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pawan575/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pawan575/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/pawan575/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3115-maximum-prime-difference](https://github.com/pawan575/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pawan575/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pawan575/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
