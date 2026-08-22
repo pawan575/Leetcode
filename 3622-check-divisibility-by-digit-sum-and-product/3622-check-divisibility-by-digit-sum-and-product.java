@@ -3,14 +3,14 @@ class Solution {
         int sum=0;
         int pd=1;
         int temp=n;
-        while(n>0){
-            int ld=n%10;
+        while(temp!=0){
+            int ld=temp%10;
             sum+=ld;
             pd*=ld;
-            n/=10;
+            temp/=10;
         }
-        sum=sum+pd;
-        if(temp%sum==0) return true;
-        return false;
+        int res=sum+pd;
+        if(n%res!=0) return false;
+        return true;
     }
 }
