@@ -277,6 +277,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/pawan575/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pawan575/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/pawan575/Leetcode/tree/master/3618-split-array-by-prime-indices) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pawan575/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pawan575/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pawan575/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pawan575/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
