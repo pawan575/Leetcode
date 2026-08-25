@@ -130,6 +130,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pawan575/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pawan575/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3668-restore-finishing-order](https://github.com/pawan575/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/pawan575/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/pawan575/Leetcode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/pawan575/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -238,6 +239,7 @@
 | [3618-split-array-by-prime-indices](https://github.com/pawan575/Leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3643-flip-square-submatrix-vertically](https://github.com/pawan575/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/pawan575/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/pawan575/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/pawan575/Leetcode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/pawan575/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pawan575/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
