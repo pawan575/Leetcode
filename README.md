@@ -111,6 +111,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pawan575/Leetcode/tree/master/0012-integer-to-roman) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pawan575/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pawan575/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/pawan575/Leetcode/tree/master/0575-distribute-candies) |
@@ -136,6 +137,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pawan575/Leetcode/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/pawan575/Leetcode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/pawan575/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/pawan575/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -248,6 +250,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/pawan575/Leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/pawan575/Leetcode/tree/master/0012-integer-to-roman) |
 | [0263-ugly-number](https://github.com/pawan575/Leetcode/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/pawan575/Leetcode/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/pawan575/Leetcode/tree/master/0728-self-dividing-numbers) |
