@@ -236,6 +236,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pawan575/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3115-maximum-prime-difference](https://github.com/pawan575/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pawan575/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3285-find-indices-of-stable-mountains](https://github.com/pawan575/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pawan575/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3446-sort-matrix-by-diagonals](https://github.com/pawan575/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pawan575/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
