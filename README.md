@@ -227,6 +227,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawan575/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/pawan575/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pawan575/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/pawan575/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/pawan575/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pawan575/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/pawan575/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -411,6 +412,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pawan575/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/pawan575/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pawan575/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/pawan575/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pawan575/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pawan575/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
