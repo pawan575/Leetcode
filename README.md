@@ -119,6 +119,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pawan575/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/pawan575/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/pawan575/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pawan575/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pawan575/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1630-arithmetic-subarrays](https://github.com/pawan575/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawan575/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -142,6 +143,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/pawan575/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/pawan575/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/pawan575/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pawan575/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1447-simplified-fractions](https://github.com/pawan575/Leetcode/tree/master/1447-simplified-fractions) |
 | [1678-goal-parser-interpretation](https://github.com/pawan575/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawan575/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -319,6 +321,7 @@
 ## Counting
 |  |
 | ------- |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pawan575/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawan575/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pawan575/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pawan575/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
