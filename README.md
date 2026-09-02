@@ -112,6 +112,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/pawan575/Leetcode/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/pawan575/Leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pawan575/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pawan575/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/pawan575/Leetcode/tree/master/0575-distribute-candies) |
@@ -198,6 +199,7 @@
 | [0075-sort-colors](https://github.com/pawan575/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pawan575/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/pawan575/Leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pawan575/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pawan575/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/pawan575/Leetcode/tree/master/0575-distribute-candies) |
@@ -323,6 +325,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pawan575/Leetcode/tree/master/0169-majority-element) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pawan575/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawan575/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pawan575/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -334,6 +337,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/pawan575/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/pawan575/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/pawan575/Leetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/pawan575/Leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/pawan575/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pawan575/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -479,6 +483,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/pawan575/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/pawan575/Leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/pawan575/Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -519,4 +524,8 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/pawan575/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pawan575/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
