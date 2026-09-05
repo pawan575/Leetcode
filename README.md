@@ -254,6 +254,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pawan575/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pawan575/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/pawan575/Leetcode/tree/master/3895-count-digit-appearances) |
+| [3903-smallest-stable-index-i](https://github.com/pawan575/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -477,6 +478,7 @@
 | [0724-find-pivot-index](https://github.com/pawan575/Leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/pawan575/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/pawan575/Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [3903-smallest-stable-index-i](https://github.com/pawan575/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
