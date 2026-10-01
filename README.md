@@ -142,6 +142,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/pawan575/Leetcode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/pawan575/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/pawan575/Leetcode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/pawan575/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/pawan575/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -384,6 +385,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pawan575/Leetcode/tree/master/0020-valid-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/pawan575/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pawan575/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pawan575/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -542,4 +544,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pawan575/Leetcode/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pawan575/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
