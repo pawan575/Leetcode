@@ -249,6 +249,7 @@
 | [3411-maximum-subarray-with-equal-products](https://github.com/pawan575/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3446-sort-matrix-by-diagonals](https://github.com/pawan575/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pawan575/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pawan575/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pawan575/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/pawan575/Leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3643-flip-square-submatrix-vertically](https://github.com/pawan575/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -297,6 +298,7 @@
 | [3411-maximum-subarray-with-equal-products](https://github.com/pawan575/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3516-find-closest-person](https://github.com/pawan575/Leetcode/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/pawan575/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pawan575/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pawan575/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/pawan575/Leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pawan575/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
