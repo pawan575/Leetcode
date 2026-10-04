@@ -187,6 +187,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/pawan575/Leetcode/tree/master/0682-baseball-game) |
 | [1094-car-pooling](https://github.com/pawan575/Leetcode/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/pawan575/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/pawan575/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -211,6 +212,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/pawan575/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/pawan575/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/pawan575/Leetcode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/pawan575/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/pawan575/Leetcode/tree/master/0724-find-pivot-index) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/pawan575/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0912-sort-an-array](https://github.com/pawan575/Leetcode/tree/master/0912-sort-an-array) |
@@ -397,6 +399,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pawan575/Leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/pawan575/Leetcode/tree/master/0682-baseball-game) |
 | [0897-increasing-order-search-tree](https://github.com/pawan575/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pawan575/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pawan575/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
