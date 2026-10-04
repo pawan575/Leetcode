@@ -277,6 +277,7 @@
 | [0012-integer-to-roman](https://github.com/pawan575/Leetcode/tree/master/0012-integer-to-roman) |
 | [0263-ugly-number](https://github.com/pawan575/Leetcode/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/pawan575/Leetcode/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/pawan575/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/pawan575/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/pawan575/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1447-simplified-fractions](https://github.com/pawan575/Leetcode/tree/master/1447-simplified-fractions) |
@@ -334,6 +335,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/pawan575/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0441-arranging-coins](https://github.com/pawan575/Leetcode/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/pawan575/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1539-kth-missing-positive-number](https://github.com/pawan575/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pawan575/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
@@ -462,6 +464,7 @@
 | [0148-sort-list](https://github.com/pawan575/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/pawan575/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pawan575/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0633-sum-of-square-numbers](https://github.com/pawan575/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pawan575/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/pawan575/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pawan575/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
