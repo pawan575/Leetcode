@@ -237,6 +237,7 @@
 | [1630-arithmetic-subarrays](https://github.com/pawan575/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawan575/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/pawan575/Leetcode/tree/master/1816-truncate-sentence) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/pawan575/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/pawan575/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/pawan575/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pawan575/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -289,6 +290,7 @@
 | [1551-minimum-operations-to-make-array-equal](https://github.com/pawan575/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pawan575/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pawan575/Leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/pawan575/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/pawan575/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/pawan575/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1952-three-divisors](https://github.com/pawan575/Leetcode/tree/master/1952-three-divisors) |
