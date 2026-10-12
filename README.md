@@ -125,6 +125,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pawan575/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pawan575/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1630-arithmetic-subarrays](https://github.com/pawan575/Leetcode/tree/master/1630-arithmetic-subarrays) |
+| [1657-determine-if-two-strings-are-close](https://github.com/pawan575/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawan575/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/pawan575/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2352-equal-row-and-column-pairs](https://github.com/pawan575/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -154,6 +155,7 @@
 | [1108-defanging-an-ip-address](https://github.com/pawan575/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pawan575/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1447-simplified-fractions](https://github.com/pawan575/Leetcode/tree/master/1447-simplified-fractions) |
+| [1657-determine-if-two-strings-are-close](https://github.com/pawan575/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1678-goal-parser-interpretation](https://github.com/pawan575/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawan575/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/pawan575/Leetcode/tree/master/1816-truncate-sentence) |
@@ -362,6 +364,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/pawan575/Leetcode/tree/master/0169-majority-element) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pawan575/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1657-determine-if-two-strings-are-close](https://github.com/pawan575/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawan575/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pawan575/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pawan575/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -387,6 +390,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pawan575/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pawan575/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1630-arithmetic-subarrays](https://github.com/pawan575/Leetcode/tree/master/1630-arithmetic-subarrays) |
+| [1657-determine-if-two-strings-are-close](https://github.com/pawan575/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pawan575/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pawan575/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/pawan575/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
