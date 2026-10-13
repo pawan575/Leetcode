@@ -161,6 +161,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawan575/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/pawan575/Leetcode/tree/master/1816-truncate-sentence) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/pawan575/Leetcode/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pawan575/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/pawan575/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/pawan575/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2390-removing-stars-from-a-string](https://github.com/pawan575/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -429,6 +430,7 @@
 | [0897-increasing-order-search-tree](https://github.com/pawan575/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pawan575/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pawan575/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pawan575/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/pawan575/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/pawan575/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/pawan575/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -481,6 +483,7 @@
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/pawan575/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/pawan575/Leetcode/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pawan575/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pawan575/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pawan575/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pawan575/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pawan575/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -497,6 +500,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pawan575/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/pawan575/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pawan575/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pawan575/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/pawan575/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pawan575/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/pawan575/Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -603,6 +607,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pawan575/Leetcode/tree/master/0020-valid-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pawan575/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Quickselect
 |  |
 | ------- |
