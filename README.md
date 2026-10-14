@@ -214,6 +214,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/pawan575/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/pawan575/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/pawan575/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pawan575/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pawan575/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pawan575/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -378,6 +379,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pawan575/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/pawan575/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pawan575/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/pawan575/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/pawan575/Leetcode/tree/master/0169-majority-element) |
@@ -613,4 +615,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pawan575/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/pawan575/Leetcode/tree/master/0324-wiggle-sort-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/pawan575/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
