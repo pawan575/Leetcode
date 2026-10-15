@@ -130,6 +130,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/pawan575/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2352-equal-row-and-column-pairs](https://github.com/pawan575/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pawan575/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pawan575/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/pawan575/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pawan575/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pawan575/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -265,6 +266,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pawan575/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pawan575/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pawan575/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pawan575/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/pawan575/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pawan575/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pawan575/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -619,4 +621,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/pawan575/Leetcode/tree/master/0056-merge-intervals) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pawan575/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pawan575/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
