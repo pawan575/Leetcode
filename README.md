@@ -224,6 +224,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pawan575/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pawan575/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pawan575/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/pawan575/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0324-wiggle-sort-ii](https://github.com/pawan575/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pawan575/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pawan575/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -536,6 +537,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/pawan575/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pawan575/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/pawan575/Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pawan575/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -582,6 +584,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pawan575/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/pawan575/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/pawan575/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/pawan575/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/pawan575/Leetcode/tree/master/0912-sort-an-array) |
@@ -627,6 +630,7 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/pawan575/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/pawan575/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -664,4 +668,12 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/pawan575/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pawan575/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pawan575/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
