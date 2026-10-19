@@ -243,6 +243,7 @@
 | [1260-shift-2d-grid](https://github.com/pawan575/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1329-sort-the-matrix-diagonally](https://github.com/pawan575/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/pawan575/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pawan575/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pawan575/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pawan575/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/pawan575/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -363,6 +364,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/pawan575/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0441-arranging-coins](https://github.com/pawan575/Leetcode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/pawan575/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pawan575/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/pawan575/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pawan575/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
@@ -406,6 +408,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/pawan575/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1329-sort-the-matrix-diagonally](https://github.com/pawan575/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/pawan575/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pawan575/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pawan575/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/pawan575/Leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pawan575/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -481,6 +484,7 @@
 | [0807-max-increase-to-keep-city-skyline](https://github.com/pawan575/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1260-shift-2d-grid](https://github.com/pawan575/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1329-sort-the-matrix-diagonally](https://github.com/pawan575/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pawan575/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/pawan575/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pawan575/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/pawan575/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -583,6 +587,7 @@
 | [0912-sort-an-array](https://github.com/pawan575/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/pawan575/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/pawan575/Leetcode/tree/master/1094-car-pooling) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pawan575/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pawan575/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
