@@ -230,6 +230,7 @@
 | [0724-find-pivot-index](https://github.com/pawan575/Leetcode/tree/master/0724-find-pivot-index) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/pawan575/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0912-sort-an-array](https://github.com/pawan575/Leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/pawan575/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/pawan575/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pawan575/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pawan575/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -299,6 +300,7 @@
 | [0633-sum-of-square-numbers](https://github.com/pawan575/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/pawan575/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/pawan575/Leetcode/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/pawan575/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1447-simplified-fractions](https://github.com/pawan575/Leetcode/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/pawan575/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/pawan575/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -389,6 +391,7 @@
 | [0324-wiggle-sort-ii](https://github.com/pawan575/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0645-set-mismatch](https://github.com/pawan575/Leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/pawan575/Leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/pawan575/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/pawan575/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/pawan575/Leetcode/tree/master/1094-car-pooling) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/pawan575/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -560,11 +563,13 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/pawan575/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/pawan575/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0912-sort-an-array](https://github.com/pawan575/Leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/pawan575/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pawan575/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/pawan575/Leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/pawan575/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/pawan575/Leetcode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pawan575/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -588,6 +593,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/pawan575/Leetcode/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/pawan575/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/pawan575/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Monotonic Stack
 |  |
@@ -617,6 +623,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pawan575/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/pawan575/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/pawan575/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quicksort
 |  |
 | ------- |
@@ -629,4 +636,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pawan575/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/pawan575/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
