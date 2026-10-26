@@ -218,6 +218,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pawan575/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/pawan575/Leetcode/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/pawan575/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/pawan575/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pawan575/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pawan575/Leetcode/tree/master/0075-sort-colors) |
@@ -679,4 +680,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pawan575/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/pawan575/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
